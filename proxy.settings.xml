@@ -1,0 +1,7 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="mirrors.neusoft.edu.cn" />
+    <option name="PROXY_EXCEPTIONS" value="mirrors.neusoft.edu.cn" />
+    <option name="PAC_URL" value="http://mirrors.neusoft.edu.cn" />
+  </component>
+</application>
